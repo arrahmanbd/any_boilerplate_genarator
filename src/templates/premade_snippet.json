@@ -1,0 +1,4 @@
+{
+  "AuthController": "class {{className}} {\n  // Your controller logic here\n}\n",
+  "SampleRepository": "class {{className}} {\n  // Your repository logic here\n}\n"
+}

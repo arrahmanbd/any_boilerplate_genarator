@@ -1,0 +1,10 @@
+{
+    "templateName": "Sample Template",
+    "folders": ["models", "services", "ui"],
+    "files": {
+      "models/SampleModel.dart": "// This is a sample model file.\nclass SampleModel {\n  // Your code here\n}",
+      "services/SampleService.dart": "// This is a sample service file.\nclass SampleService {\n  // Your code here\n}",
+      "ui/SampleUI.dart": "// This is a sample UI file.\nclass SampleUI {\n  // Your code here\n}"
+    }
+  }
+  
