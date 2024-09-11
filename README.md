@@ -46,7 +46,7 @@ To generate a custom VS Code extension using this boilerplate, follow these step
 1.  Clone the repository or copy the extension files to your local machine.
 2.  Open the folder containing the extension in Visual Studio Code.
 3.  Run `npm install` to install the necessary dependencies.
-4.  Add your **Templates** and **Snippets** on **Templates** directory.
+4.  Add your **Templates** and **Snippets** on **Templates** directory. This [snippet generator](https://snippet-generator.app/) will help you to convert your code into snippet.
 5.  Test/Debug `npm run compile`
 6.  Use the `vsce` command-line tool to package the extension. Install it globally with `npm install -g vsce` if you haven't already.
 7.  Run `vsce package` to create a .vsix file for your extension.
